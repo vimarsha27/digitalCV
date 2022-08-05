@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/digitalcv",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

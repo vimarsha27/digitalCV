@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "course":"Bachelor of Engineering(B.E),Information Science and Engineering",
+      "institution":"Nitte Mahalinga Adyanthaya Memorial Institute of Technology Nitte",
+      "year":"2019-2023"
+    },
+    {
+        "id": 2,
+        "course":"XII(Senior Secondary),Science",
+        "institution":"Vani P U College Belthangady",
+        "year":"2018-2019"
+    },
+    {
+        "id": 3,
+        "course":"X(Secondary)",
+        "institution":"Vani School Belthangady",
+        "year":"2016-2017"
+    }
+  ]
+  

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+
+
+.contact {
+    font-family: 'Poppins',sans-serif;
+}
+
+.contact .contact-content {
+     display:flex;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: space-between;
+}
+
+
+.contact .contact-content .column{
+    width: calc(50% - 30px);
+}
+.contact .contact-content .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.contact .contact-content .left p{
+    text-align: justify;
+}
+.contact .contact-content .left .icons{
+    margin: 10px 0;
+}
+.contact .contact-content .row{
+    display: flex;
+    height: 65px;
+    align-items: center;
+}
+.contact .contact-content .row .info{
+    margin-left: 30px;
+}
+.contact .contact-content .row i{
+    font-size: 25px;
+    color: blue;
+}
+.contact .contact-content .info .head{
+    font-weight: 500;
+}
+.contact .contact-content .info .sub-title{
+    color: #333;
+}
+
+
+.contact .contact-content {
+    padding-left:50px;
+    padding-right: 50px;
+}
+
+h1 {
+    padding-left: 650px;
+}
+
+.card .card-body {
+    padding-left: 50px;
+}
+
+.formGroup{
+    padding-left: 100px;
+    
+}
